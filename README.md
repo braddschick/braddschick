@@ -18,6 +18,16 @@
 |.NET Windows | MVC/P | |
 |#bash | | |
 
+## Current Database/Storage Utilized
+
+|Languages|Connection Language|Type|
+|---|---|---|
+|CockroachDB | Postgres | SQL|
+|MongoDB | Mongo | NoSQL|
+|CouchDB | ERlang | SQL|
+|Postgres | Python | SQL|
+|SQLite | Python, NodeJS | SQL|
+
 ## Contact Info
 
 __Email:__ _bradd.schick@gmail.com_
