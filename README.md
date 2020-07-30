@@ -42,6 +42,15 @@
 <a href="https://www.nginx.com/" title="Nginx" target="_blank"><img height="125" src="https://github.com/braddschick/braddschick/blob/master/images/nginx.png" /></a>
 <a href="https://www.vmware.com/" title="VmWare" target="_blank"><img height="125" src="https://github.com/braddschick/braddschick/blob/master/images/vmware.png" /></a>
 
+## Currently Everything Else
+
+<a href="https://www.scaledagileframework.com/" title="SAfE" target="_blank"><img height="125" src="https://github.com/braddschick/braddschick/blob/master/images/Safe.png" /></a>
+<a href="https://www.scrum.org/resources/what-is-scrum" title="Agile Scrum" target="_blank"><img height="125" src="https://github.com/braddschick/braddschick/blob/master/images/scrum.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank"><img height="125" src="https://github.com/braddschick/braddschick/blob/master/images/vscode.png" /></a>
+<a href="https://ubuntu.com/" title="Ubuntu" target="_blank"><img height="125" src="https://github.com/braddschick/braddschick/blob/master/images/ubuntu.png" /></a>
+<a href="https://ww.debian.org" title="Debian" target="_blank"><img height="125" src="https://github.com/braddschick/braddschick/blob/master/images/debian.png" /></a>
+<a href="https://www.centos.org/" title="CentOS" target="_blank"><img height="125" src="https://github.com/braddschick/braddschick/blob/master/images/centos.png" /></a>
+<a href="https://puppet.com/" title="Puppet Scripting" target="_blank"><img height="125" src="https://github.com/braddschick/braddschick/blob/master/images/puppet.png" /></a>
 
 ## Contact Info
 
