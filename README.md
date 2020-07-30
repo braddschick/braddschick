@@ -1,5 +1,5 @@
-<p align="center"><img width=12.5% src="https://github.com/braddschick/braddschick/blob/master/me-irl.png"></p>
-<p align="center"><img width=60% src="https://github.com/braddschick/braddschick/blob/master/braddschick.png"></p>
+<p align="center"><img width=12.5% src="https://github.com/braddschick/braddschick/blob/master/images/me-irl.png"></p>
+<p align="center"><img width=60% src="https://github.com/braddschick/braddschick/blob/master/images/braddschick.png"></p>
 
 # My Profile
 
@@ -7,7 +7,10 @@
 
 ## Current Programming Languages
 
-|Languages|Frameworks|Methodologies|
+<a href="python.org" target="blank"><img height="200" src="https://github.com/braddschick/braddschick/blob/master/images/python.png" /></a>
+
+
+<!-- |Languages|Frameworks|Methodologies|
 |---|---|---|
 |TypeScript | VueJS | Agile *Certified*|
 |JavaScript | Electron | Scrum *Certified*|
@@ -16,7 +19,7 @@
 |HTML 5 | Google Material Design | |
 |.NET Core | NPM/Yarn | |
 |.NET Windows | MVC/P | |
-|#bash | | |
+|#bash | | | -->
 
 ## Current Database/Storage Utilized
 
