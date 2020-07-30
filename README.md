@@ -3,7 +3,7 @@
 
 # My Profile
 
-  Simple former US Marine that has been developing prigrams, apps, and websites for more than 20 years. IT Management, Product Managment, SDLC, and Pre-Sales Engineering to round out his career experience with a few hiatuses to Iraq in the early '00's.
+  Simple former US Marine that has been developing programs, apps, and websites for more than 20 years. IT Management, Product Management, SDLC, and Pre-Sales Engineering to round out his career experience with a few hiatuses to Iraq in the early '00's.
 
 ## Current Programming Stuff
 
