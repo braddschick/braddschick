@@ -7,7 +7,7 @@
 
 ## Current Programming Languages
 
-<a href="python.org" target="blank"><img height="200" src="https://github.com/braddschick/braddschick/blob/master/images/python.png" /></a>
+<a href="https://python.org" target="blank"><img height="125" src="https://github.com/braddschick/braddschick/blob/master/images/python.png" /></a>
 
 
 <!-- |Languages|Frameworks|Methodologies|
