@@ -1,4 +1,4 @@
-<p align="center"><img width=12.5% src="https://github.com/braddschick/braddschick/blob/master/images/me-irl.png"></p>
+<p style="background-color: white;" align="center"><img width=12.5% src="https://github.com/braddschick/braddschick/blob/master/images/me-irl.png"></p>
 <p align="center"><img width=60% src="https://github.com/braddschick/braddschick/blob/master/images/braddschick.png"></p>
 
 # My Profile
